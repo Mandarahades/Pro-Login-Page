@@ -50,4 +50,4 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 If you would like to contribute to this project, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-![Pixel Art Generator Screenshot](Login page.png)
+![Login page](Login page.png)

@@ -1,17 +1,19 @@
+# Login Page
+
+This repository contains code for a modern login page designed using HTML, CSS, and JavaScript.
+
+![Login Page](screem.png)
+
 **Author: Mandara Michel**  
 **Contact: Mandarahades@gmail.com**
 
-# Login Page
+## Table of Contents
 
-This repository contains code for a moderne login page designed using HTML, CSS, and JavaScript.
-
-## Table of contents
-
--[Features](#features)
--[Overview](#overview)
--[File Structure](#file-structure)
--[Usage](#usage)
--[Contributing](#contributing)
+- [Features](#features)
+- [Overview](#overview)
+- [File Structure](#file-structure)
+- [Usage](#usage)
+- [Contributing](#contributing)
 
 ## Overview
 
@@ -34,20 +36,7 @@ The login page consists of a form allowing users to sign up or sign in using the
 
 To run the login page:
 
-1. Clone the repository to your local machine.
-1. Clone the repository:
+1. Clone the repository to your local machine:
 
    ```bash
-  git clone https://github.com/Mandarahades/Pro-Login-Page.git
-   ```
-
-2. Open `index.html` in a web browser.
-
-## Contributing
-
-Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to create issues or submit pull requests.
-## Contributing
-
-If you would like to contribute to this project, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-![Login page](Loginpage.png)
+   git clone https://github.com/Mandarahades/Pro-Login-Page.git

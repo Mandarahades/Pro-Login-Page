@@ -38,7 +38,7 @@ To run the login page:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Mandarahades/A-beautiful-Pixel-Art-Generator.git
+  git clone https://github.com/Mandarahades/Pro-Login-Page.git
    ```
 
 2. Open `index.html` in a web browser.
@@ -50,4 +50,4 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 If you would like to contribute to this project, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-![Login page](Login page.png)
+![Login page](Loginpage.png)
